@@ -65,12 +65,11 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 
 ## Backlink Types
 
+### Free Backlinks
 - Profile Backlink => kisi website pey signup krna aur apni link add krna (i.e Facebook) => Worth nhi hae
-- Blog Comment => Kisi website k comment section mein comment krna aur apni link add krna => Without SIgnUp
-- Forum Backlink => Forum ki kisi ka reply krna aur usmein link add krna => Need SignUp
+- Blog Comment*** (Help In Ranking) => Kisi website k comment section mein comment krna aur apni link add krna => Without SIgnUp
+- Forum Backlink*** (Help In Ranking) => Forum ki kisi ka reply krna aur usmein link add krna => Need SignUp => Forum Pey new post bhi kr saktey -> QUestion usmein apna link add krdein
+- Nadla Strategy*** (Powerful) => Aesi website sey backlink lena jiska DR 70+ ho (e.g microsoft forum)
 
+- Foundation Backlinks => Images, Video, PDF, Document Sharing, Audio Backlinks (e.g youtube description)
   
-
-
-
-
