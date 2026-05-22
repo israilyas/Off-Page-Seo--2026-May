@@ -71,5 +71,13 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 - Forum Backlink*** (Help In Ranking) => Forum ki kisi ka reply krna aur usmein link add krna => Need SignUp => Forum Pey new post bhi kr saktey -> QUestion usmein apna link add krdein
 - Nadla Strategy*** (Powerful) => Aesi website sey backlink lena jiska DR 70+ ho (e.g microsoft forum)
 
-- Foundation Backlinks => Images, Video, PDF, Document Sharing, Audio Backlinks (e.g youtube description)
+- Foundation Backlinks (zyada worth nhi) => Images, Video, PDF, Document Sharing, Audio Backlinks (e.g youtube description, PDF Submission, Images, Document, Audio i.e sound cloud)
+---
+
+- Google Stacking
+- CLoud Stacking
+---
+
+- edu domain => education sites => Blog comments => worth hae
+- gov => government site => 
   
