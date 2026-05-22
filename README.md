@@ -52,8 +52,14 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 
 ##  Anchor Ration
 
-- Main Keyword => 10%
-- Related keyword/ Long Tail keyword => 20%
+ On Page SEO => As owner (He know main keyword tw wo usko target krega)
+ Off Page Seo => Google Allow nhi krta k ap as owner references create krein 
+ -> Isliye hum anchor text k liye ye strategy apply krtey hein aur main keyword ko always anchor nhi rkhtey
+ -> Googlr ko lagna chahiye k naturally backlinks ban rhi
+ -> Hamein Diversity create krni hoti hae
+
+- Main Keyword => less than 10%
+- Related keyword/ Long Tail keyword => Average 30%
 - Generic Anchors (General words related to niche) => 30%
 - Direct Url => 40%
 
