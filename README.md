@@ -60,7 +60,7 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 
 - Main Keyword => less than 10%
 - Related keyword/ Long Tail keyword => Average 30%
-- Generic Anchors (General words related to niche) => 30%
+- Generic Anchors (General words related to niche) => 20%
 - Direct Url => 40%
 
 
