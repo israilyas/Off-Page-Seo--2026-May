@@ -86,3 +86,12 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 ## Paid Backlink
 - guest post
 - link insertion/ niche edit => aesey page sey lenegy jis k min traffic 1k ho
+
+ Ye dekhney k liye k link insertion hae ya guest post traffic check krien => Agar traffic zyada hae tw Link insertion else guest post 
+
+---
+
+#### Kisi bhi blog ya forum k comment mein jahan sey ap link le rhy max 20 link honey chahiye wrna link na lein=> It will be counted as spammy link
+- Koe Aur page dekhein jahan OBL low ho aur wahan se link lein
+
+
