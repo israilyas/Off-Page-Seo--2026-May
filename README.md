@@ -78,6 +78,11 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 - CLoud Stacking
 ---
 
-- edu domain => education sites => Blog comments => worth hae
-- gov => government site => 
-  
+- edu backlink => education sites => Blog comments => worth hae
+- gov backlink => government site =>
+
+---
+
+## Paid Backlink
+- guest post
+- link insertion/ niche edit => aesey page sey lenegy jis k min traffic 1k ho
