@@ -63,6 +63,11 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 - Generic Anchors (General words related to niche) => 20%
 - Direct Url => 40%
 
+## Backlink Types
+
+- Profile Backlink => kisi website pey signup krna aur apni link add krna (i.e Facebook) => Worth nhi hae
+- Blog Comment => Kisi website k comment section mein comment krna aur apni link add krna => Without SIgnUp
+- Forum Backlink => Forum ki kisi ka reply krna aur usmein link add krna => Need SignUp
 
   
 
