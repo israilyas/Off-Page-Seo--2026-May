@@ -41,7 +41,24 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 - Ahref Filters:
 - One Link Per domain => (It is Recommended k aik website sey hum srf aik link lein apni website k liye)
 - Domain Traffic => Min 50-100 
-- 
+
+---
+
+# Lecture 1 (Part-2)
+
+- Anchor Ration
+- Backlinks Types
+- Free Vs Paid Backlinks
+
+##  Anchor Ration
+
+- Main Keyword => 10%
+- Related keyword/ Long Tail keyword => 20%
+- Generic Anchors (General words related to niche) => 30%
+- Direct Url => 40%
+
+
+  
 
 
 
