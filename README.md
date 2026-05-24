@@ -93,5 +93,26 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 
 #### Kisi bhi blog ya forum k comment mein jahan sey ap link le rhy max 20 link honey chahiye wrna link na lein=> It will be counted as spammy link
 - Koe Aur page dekhein jahan OBL low ho aur wahan se link lein
+- Agar DR zyada acha hae te 50 OBL pey link laga dengey
+- Off Page mein AI sey content generate kr saktey
+
+
+### How To find High Traffic Page
+- koe bho forum ya website k link ahref mein add krein => uskey top pages mein jayen jo post sab sey zyada traffic le rhi wahan link bnayen
+
+## Tast
+- Create 5 emails
+- ENglish names
+- in email sey forums sign up krein
+- aur jab post krni ho tw aik sey question krein.
+- 2-3 sey natural answer krein
+- aur 1 sey link k sath answer add krein
+- Dont use real gmail
+- wo gmail bhi use na krein jispey hosting hae ya cloudfare
+- website wala email use na krein
+- Agar forum bohot acha hae lekin ban kr rha ya link wali post ya comment dlt kr rha tw "." ya "," pey bhi link laga dein
+
+### Golden Rule 
+- Apney competitor sey khud ko acha bnaye, onpage off page, unkey sab achey backlinks bnayen, unsey better links bnaye, spammy links na bnaye
 
 
