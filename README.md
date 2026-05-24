@@ -115,4 +115,5 @@ Kisi aur website sey apni website k liye reference leney ko off page seo kehtey 
 ### Golden Rule 
 - Apney competitor sey khud ko acha bnaye, onpage off page, unkey sab achey backlinks bnayen, unsey better links bnaye, spammy links na bnaye
 
+## Importan => Jis website ko ap link de rhy uss sey link le nhi saktey.. wrna google ko pata lag jata hae k owner miley huwey hein => dono website jaa sakti
 
